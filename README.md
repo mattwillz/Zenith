@@ -1,2 +1,1 @@
 # Zenith
-Automated Checkout Software
